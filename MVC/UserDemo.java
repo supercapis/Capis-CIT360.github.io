@@ -1,7 +1,7 @@
 import View.StudentView;
 
 /**
- * @author:
+ * @author: Capis Prestes
  * @date: 3/1/2020
  *
  * Diagram: https://alvinalexander.com/uml/uml-model-view-controller-mvc-diagram
